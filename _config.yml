@@ -1,7 +1,7 @@
 # Site Settings
 title: My Resume
 url: 'http://webjeda.com'
-baseurl: '/online_cv' #change it according to your repository name
+baseurl: '/online-cv' #change it according to your repository name
 about: True # set to False or comment line if you want to remove the "How to use?" in the sidebar
 
 
@@ -9,23 +9,26 @@ about: True # set to False or comment line if you want to remove the "How to use
 #style: styles-2
 #style: styles-3
 #style: styles-4
-style: styles-5
+#style: styles-5
 #style: styles-6
 
 
 #Profile information
-name: Taek Hyung Kim
-tagline: Education Policy Researcher
-pic: taek.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-summary: 'I'm interested in education policy, data analysis, and economics of education'
+name: Alan Doe
+tagline: Full Stack Developer
+pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+summary: 'Summarise your career here lorem ipsum dolor sit amet, consectetuer adipiscing elit.
+You can <a href="#" target="_blank">download this free resume/CV template here</a>. Aenean
+commodo ligula eget dolor aenean massa. Cum sociis natoque penatibus et magnis dis parturient
+montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu.'
 
 #sidebar links
-email: karisther@gmail.com
-phone: 857 209 1485
-website: karisther.github.io/online_cv #do not add http://
-linkedin: karisther
-github: karisther
-#twitter: '@webjeda'
+email: hello@webjeda.com
+phone: 012 345 6789
+website: blog.webjeda.com #do not add http://
+linkedin: alandoe
+github: sharu725
+twitter: '@webjeda'
 #Update all the sections by editing the files inside _data folder.
 
 # uncomment the next line, if you want the education section displayed in main instead of the sidebar
