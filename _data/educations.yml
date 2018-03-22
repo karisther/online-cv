@@ -1,10 +1,15 @@
 - education:
   degree: Ph.D in Education Policy Evaluation
   university: Florida State University
-  time: 2011 - 2017
+  time: 2011.9 - 2017.5
   details: "I have stuided how education policies are developed, implemented, and evaluated"
 - education:
-  degree: MS in Educational Administration
+  degree: MA in Educational Administration
   university: Korea University
-  time: 2007 - 2009
+  time: 2007.3 - 2009.2
+  details: "Educational leadership"
+- education:
+  degree: BA in Education
+  university: Korea University
+  time: 1999.3 - 2007.2
   details: "Educational leadership"
